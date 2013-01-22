@@ -1,4 +1,4 @@
 Node_Sandbox
 ============
 
-A node.js sandbox with built for use with PDS
+A node.js sandbox.  Built for use with PDS.
